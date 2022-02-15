@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 5: Keep Those Queens Apart'
 uid: ddf58741-7a58-e8ba-8b1b-726e81edb257
 ---

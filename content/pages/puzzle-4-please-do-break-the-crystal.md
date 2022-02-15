@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 4: Please Do Break the Crystal'
 uid: 2a1074b1-b265-def8-cbdf-a7d9a3526fbf
 ---

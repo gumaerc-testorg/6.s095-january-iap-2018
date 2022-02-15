@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding conform-opt.py.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-s095-programming-for-the-puzzled-january-iap-2018/8c56cccc57050141ab4f00dd33bd58f1_conform-opt.py
+file: /media/courses/6-s095-programming-for-the-puzzled-january-iap-2018/8c56cccc57050141ab4f00dd33bd58f1_conform-opt.py
 file_type: text/python-source
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Puzzle 1: You Will All Conform'
+parent_type: CourseSection
 resourcetype: Other
 title: conform-opt.py
 uid: 8c56cccc-5705-0141-ab4f-00dd33bd58f1

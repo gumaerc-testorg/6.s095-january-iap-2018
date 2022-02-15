@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 3: You Can Read Minds'
 uid: 2c683d2b-c663-a413-177b-0cb8c6988a7e
 ---

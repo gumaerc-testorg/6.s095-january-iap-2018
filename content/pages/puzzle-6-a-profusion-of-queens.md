@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 6: A Profusion of Queens'
 uid: b3747039-2f9d-bb5d-0cf7-640d43fb5c08
 ---

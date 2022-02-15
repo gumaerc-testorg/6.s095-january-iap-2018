@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 9: The Disorganized Handyman'
 uid: 3686d141-cf97-fc02-d1fc-0d688ed3c0c6
 ---

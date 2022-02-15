@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding 8queens-iterative.py.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-s095-programming-for-the-puzzled-january-iap-2018/0937b4feb932f0f906c68fa9bc924dce_8queens-iterative.py
+file: /media/courses/6-s095-programming-for-the-puzzled-january-iap-2018/0937b4feb932f0f906c68fa9bc924dce_8queens-iterative.py
 file_type: text/python-source
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Puzzle 5: Keep Those Queens Apart'
+parent_type: CourseSection
 resourcetype: Other
 title: 8queens-iterative.py
 uid: 0937b4fe-b932-f0f9-06c6-8fa9bc924dce

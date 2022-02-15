@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 10: A Weekend to Remember'
 uid: 6edd0a42-6da3-1475-1645-dfa11f01a949
 ---

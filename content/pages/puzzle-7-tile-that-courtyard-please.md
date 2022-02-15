@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 7: Tile That Courtyard Please'
 uid: 4df2aedc-1db1-f2b4-677c-c4bba56a3e5f
 ---

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding bipartite.py.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-s095-programming-for-the-puzzled-january-iap-2018/b367ebbc40fc8cdfc66a8b667dfd72d6_bipartite.py
+file: /media/courses/6-s095-programming-for-the-puzzled-january-iap-2018/b367ebbc40fc8cdfc66a8b667dfd72d6_bipartite.py
 file_type: text/python-source
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Puzzle 10: A Weekend to Remember'
+parent_type: CourseSection
 resourcetype: Other
 title: bipartite.py
 uid: b367ebbc-40fc-8cdf-c66a-8b667dfd72d6

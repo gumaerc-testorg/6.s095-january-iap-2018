@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 8: You Won''t Want to Play Sudoku Again'
 uid: 8923688f-47c6-0b3a-28e4-b49e7d664281
 ---

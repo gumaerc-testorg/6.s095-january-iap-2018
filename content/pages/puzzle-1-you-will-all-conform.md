@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 1: You Will All Conform'
 uid: 5e65dbb5-5393-fee5-75a5-9d4736748c86
 ---

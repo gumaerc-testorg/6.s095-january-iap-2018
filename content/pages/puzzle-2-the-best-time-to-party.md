@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 2: The Best Time to Party'
 uid: 1bda9694-81e8-db21-7d35-9d2d91022dc5
 ---

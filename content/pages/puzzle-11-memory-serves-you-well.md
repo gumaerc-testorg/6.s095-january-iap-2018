@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 11: Memory Serves You Well'
 uid: 8d6d7667-12ef-848a-2099-af13dc3b2d58
 ---
