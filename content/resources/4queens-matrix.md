@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 5: Keep Those Queens Apart'
 parent_type: CourseSection
+parent_uid: ddf58741-7a58-e8ba-8b1b-726e81edb257
 resourcetype: Other
 title: 4queens-matrix.py
 uid: 05eea3c3-320d-d678-8ea5-2ace5a322267

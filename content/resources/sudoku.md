@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 8: You Won''t Want to Play Sudoku Again'
 parent_type: CourseSection
+parent_uid: 8923688f-47c6-0b3a-28e4-b49e7d664281
 resourcetype: Other
 title: sudoku.py
 uid: af619b1e-898c-b9e5-e9a6-3f2f97bcc9f6

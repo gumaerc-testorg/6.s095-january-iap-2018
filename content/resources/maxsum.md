@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 11: Memory Serves You Well'
 parent_type: CourseSection
+parent_uid: 8d6d7667-12ef-848a-2099-af13dc3b2d58
 resourcetype: Other
 title: maxsum.py
 uid: 0c5643ca-a16e-0cb9-6284-219b455b5afb

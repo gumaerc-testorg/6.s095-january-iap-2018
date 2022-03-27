@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 3: You Can Read Minds'
 parent_type: CourseSection
+parent_uid: 2c683d2b-c663-a413-177b-0cb8c6988a7e
 resourcetype: Document
 title: 'Programming for the Puzzled: You Can Read Minds (With a Little Calibration)'
 uid: ad1a6fed-9a85-1d08-82e6-2d381847917b

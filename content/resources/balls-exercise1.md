@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 4: Please Do Break the Crystal'
 parent_type: CourseSection
+parent_uid: 2a1074b1-b265-def8-cbdf-a7d9a3526fbf
 resourcetype: Other
 title: balls-exercise1.py
 uid: 54c537bd-d14b-d93c-bd32-7409e806513c

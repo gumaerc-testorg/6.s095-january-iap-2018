@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 10: A Weekend to Remember'
 parent_type: CourseSection
+parent_uid: 6edd0a42-6da3-1475-1645-dfa11f01a949
 resourcetype: Other
 title: bipartite-exercise1.py
 uid: 379da875-13f1-7f54-e34c-ddb33b29d774

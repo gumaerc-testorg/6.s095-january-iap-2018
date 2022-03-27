@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 1: You Will All Conform'
 parent_type: CourseSection
+parent_uid: 5e65dbb5-5393-fee5-75a5-9d4736748c86
 resourcetype: Document
 title: 'Programming for the Puzzled: You Will All Conform'
 uid: 01c2534c-56f1-1b9e-f38f-6ee2f023e9cc

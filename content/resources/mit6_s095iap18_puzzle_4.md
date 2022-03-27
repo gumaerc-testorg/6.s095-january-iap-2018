@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 4: Please Do Break the Crystal'
 parent_type: CourseSection
+parent_uid: 2a1074b1-b265-def8-cbdf-a7d9a3526fbf
 resourcetype: Document
 title: 'Programming for the Puzzled: Please Do Break the Crystal'
 uid: a00460a6-a86d-0962-97b5-412ca8a4676a

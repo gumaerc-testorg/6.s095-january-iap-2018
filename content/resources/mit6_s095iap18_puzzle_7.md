@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 7: Tile That Courtyard Please'
 parent_type: CourseSection
+parent_uid: 4df2aedc-1db1-f2b4-677c-c4bba56a3e5f
 resourcetype: Document
 title: 'Programming for the Puzzled: Tile That Courtyard, Please'
 uid: 4bda18c7-23c8-8ca9-39e5-ed0714dabab0

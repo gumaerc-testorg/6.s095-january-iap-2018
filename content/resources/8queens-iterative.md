@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 5: Keep Those Queens Apart'
 parent_type: CourseSection
+parent_uid: ddf58741-7a58-e8ba-8b1b-726e81edb257
 resourcetype: Other
 title: 8queens-iterative.py
 uid: 0937b4fe-b932-f0f9-06c6-8fa9bc924dce

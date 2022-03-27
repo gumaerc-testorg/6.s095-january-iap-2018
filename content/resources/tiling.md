@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 7: Tile That Courtyard Please'
 parent_type: CourseSection
+parent_uid: 4df2aedc-1db1-f2b4-677c-c4bba56a3e5f
 resourcetype: Other
 title: tiling.py
 uid: 786d7adf-56de-bd30-3fff-5f49ca042ca2

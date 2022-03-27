@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 9: The Disorganized Handyman'
 parent_type: CourseSection
+parent_uid: 3686d141-cf97-fc02-d1fc-0d688ed3c0c6
 resourcetype: Document
 title: 'Programming for the Puzzled: The Disorganized Handyman'
 uid: 2d431929-cbf5-3697-07b3-9fb7675ecdaf

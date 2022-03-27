@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 3: You Can Read Minds'
 parent_type: CourseSection
+parent_uid: 2c683d2b-c663-a413-177b-0cb8c6988a7e
 resourcetype: Other
 title: magic-exercise1.py
 uid: e6ae0178-11af-2645-d1fc-f19b2cc5ee1f

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 2: The Best Time to Party'
 parent_type: CourseSection
+parent_uid: 1bda9694-81e8-db21-7d35-9d2d91022dc5
 resourcetype: Document
 title: 'Programming for the Puzzled: The Best Time To Party'
 uid: b7b07b79-b2c3-1a9f-7a85-0d805bcc3cc5

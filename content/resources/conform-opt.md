@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 1: You Will All Conform'
 parent_type: CourseSection
+parent_uid: 5e65dbb5-5393-fee5-75a5-9d4736748c86
 resourcetype: Other
 title: conform-opt.py
 uid: 8c56cccc-5705-0141-ab4f-00dd33bd58f1

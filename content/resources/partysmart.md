@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 2: The Best Time to Party'
 parent_type: CourseSection
+parent_uid: 1bda9694-81e8-db21-7d35-9d2d91022dc5
 resourcetype: Other
 title: partysmart.py
 uid: eaa19d28-ea09-e2ef-5670-c388d57583c6

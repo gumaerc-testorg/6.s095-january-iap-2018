@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Puzzle 6: A Profusion of Queens'
 parent_type: CourseSection
+parent_uid: b3747039-2f9d-bb5d-0cf7-640d43fb5c08
 resourcetype: Other
 title: nqueens.py
 uid: b3f040a7-1e73-8118-f434-2b966f51d835
