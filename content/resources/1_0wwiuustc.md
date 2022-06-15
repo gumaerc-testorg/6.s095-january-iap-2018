@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-s095-programming-for-the-puzzled-january-iap-2018/ab85081969d279a39cf6c398d5287256_1_0WwiUUsTc.srt
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/ab85081969d279a39cf6c398d5287256_1_0WwiUUsTc.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

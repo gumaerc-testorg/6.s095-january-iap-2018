@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page includes the video, description, and python files for Puzzle
+  5: Keep Those Queens Apart.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Puzzle 5: Keep Those Queens Apart'
@@ -13,13 +15,13 @@ Can you place eight queens on a chessboard so no two queens threaten each other?
 Puzzle Description
 ------------------
 
-*   [Keep Those Queens Apart (PDF)]({{< baseurl >}}/resources/mit6_s095iap18_puzzle_5)
+*   {{% resource_link b4e9a1e3-8efc-ab78-2107-465732020195 "Keep Those Queens Apart (PDF)" %}}
 
 Python Code
 -----------
 
-*   [4queens-matrix.py (PY)]({{< baseurl >}}/resources/4queens-matrix)
-*   [8queens-iterative.py (PY)]({{< baseurl >}}/resources/8queens-iterative)
+*   {{% resource_link 05eea3c3-320d-d678-8ea5-2ace5a322267 "4queens-matrix.py (PY)" %}}
+*   {{% resource_link 0937b4fe-b932-f0f9-06c6-8fa9bc924dce "8queens-iterative.py (PY)" %}}
 
 Assignment
 ----------
@@ -29,7 +31,7 @@ Assignment
 Solution
 --------
 
-*   [8queens-iterative-exercise1.py (PY)]({{< baseurl >}}/resources/8queens-iterative-exercise1)
+*   {{% resource_link deac2a81-775c-2b89-c222-cefb846eca37 "8queens-iterative-exercise1.py (PY)" %}}
 
 Programming Constructs and Algorithmic Paradigms Covered in this Puzzle
 -----------------------------------------------------------------------

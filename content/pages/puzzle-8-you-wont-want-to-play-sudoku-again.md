@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page includes the video, description, and python files for Puzzle
+  8: You Won''t Want to Play Sudoku Again.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Puzzle 8: You Won''t Want to Play Sudoku Again'
@@ -13,13 +15,13 @@ Are Sudoku puzzles too difficult or tedious for you? Would you rather write a co
 Puzzle Description
 ------------------
 
-*   [You Won't Want To Play Sudoku Again (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_s095iap18_puzzle_8)
+*   {{% resource_link 4daf155b-20b9-c9f8-52cb-c5b58467c967 "You Won't Want To Play Sudoku Again (PDF - 1.1MB)" %}}
 
 Python Code
 -----------
 
-*   [sudoku.py (PY)]({{< baseurl >}}/resources/sudoku)
-*   [sudoku-opt.py (PY)]({{< baseurl >}}/resources/sudoku-opt)
+*   {{% resource_link af619b1e-898c-b9e5-e9a6-3f2f97bcc9f6 "sudoku.py (PY)" %}}
+*   {{% resource_link fe7b4c09-ce0e-2db0-d478-9a8f0dcc25da "sudoku-opt.py (PY)" %}}
 
 Assignment
 ----------
@@ -29,7 +31,7 @@ Assignment
 Solution
 --------
 
-*   [sudoku-opt-exercise1.py (PY)]({{< baseurl >}}/resources/sudoku-opt-exercise1)
+*   {{% resource_link ba74c35c-87db-1436-afae-84ae60eca56f "sudoku-opt-exercise1.py (PY)" %}}
 
 Programming Constructs and Algorithmic Paradigms Covered in this Puzzle
 -----------------------------------------------------------------------

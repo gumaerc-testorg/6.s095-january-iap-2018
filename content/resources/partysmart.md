@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding partysmart.py.
-file: /media/courses/6-s095-programming-for-the-puzzled-january-iap-2018/eaa19d28ea09e2ef5670c388d57583c6_partysmart.py
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/eaa19d28ea09e2ef5670c388d57583c6_partysmart.py
 file_type: text/python-source
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Other
 title: partysmart.py
 uid: eaa19d28-ea09-e2ef-5670-c388d57583c6
 ---
+This resource contains information regarding partysmart.py.
+

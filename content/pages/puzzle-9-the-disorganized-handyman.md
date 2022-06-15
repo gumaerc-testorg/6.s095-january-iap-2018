@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page includes the video, description, and python files for Puzzle
+  9: The Disorganized Handyman.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Puzzle 9: The Disorganized Handyman'
@@ -13,13 +15,13 @@ A disorganized handyman has mixed up his nuts and bolts in a bag and your task i
 Puzzle Description
 ------------------
 
-*   [The Disorganized Handyman (PDF)]({{< baseurl >}}/resources/mit6_s095iap18_puzzle_9)
+*   {{% resource_link 2d431929-cbf5-3697-07b3-9fb7675ecdaf "The Disorganized Handyman (PDF)" %}}
 
 Python Code
 -----------
 
-*   [quicksort.py (PY)]({{< baseurl >}}/resources/quicksort)
-*   [quicksort-inplace.py (PY)]({{< baseurl >}}/resources/quicksort-inplace)
+*   {{% resource_link cbd2959c-e473-2c4e-ced7-3c0ed60f87c2 "quicksort.py (PY)" %}}
+*   {{% resource_link e535b95a-e4ab-7d59-6136-8d6533582f06 "quicksort-inplace.py (PY)" %}}
 
 Assignment
 ----------
@@ -29,7 +31,7 @@ Assignment
 Solution
 --------
 
-*   [quicksort-exercise1.py (PY)]({{< baseurl >}}/resources/quicksort-exercise1)
+*   {{% resource_link c5c4d1c5-ab1b-b821-fdb3-a1faf5f0069d "quicksort-exercise1.py (PY)" %}}
 
 Programming Constructs and Algorithmic Paradigms Covered in this Puzzle
 -----------------------------------------------------------------------

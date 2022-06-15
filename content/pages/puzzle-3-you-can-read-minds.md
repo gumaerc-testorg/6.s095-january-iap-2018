@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page includes the video, description, and python files for Puzzle
+  3: You Can Read Minds.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Puzzle 3: You Can Read Minds'
@@ -13,12 +15,12 @@ Prof. Devadas describes a mind reading trick that allows you to guess the fifth 
 Puzzle Description
 ------------------
 
-*   [You Can Read Minds (PDF)]({{< baseurl >}}/resources/mit6_s095iap18_puzzle_3)
+*   {{% resource_link ad1a6fed-9a85-1d08-82e6-2d381847917b "You Can Read Minds (PDF)" %}}
 
 Python Code
 -----------
 
-*   [magic.py (PY)]({{< baseurl >}}/resources/magic)
+*   {{% resource_link f47978c6-647f-dce8-ea2e-655efb111c91 "magic.py (PY)" %}}
 
 Assignment
 ----------
@@ -28,7 +30,7 @@ Assignment
 Solution
 --------
 
-*   [magic-exercise1.py (PY)]({{< baseurl >}}/resources/magic-exercise1)
+*   {{% resource_link e6ae0178-11af-2645-d1fc-f19b2cc5ee1f "magic-exercise1.py (PY)" %}}
 
 Programming Constructs and Algorithmic Paradigms Covered in this Puzzle
 -----------------------------------------------------------------------
