@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This page includes the video, description, and python files for Puzzle
+  10: A Weekend to Remember.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 10: A Weekend to Remember'
 uid: 6edd0a42-6da3-1475-1645-dfa11f01a949
 ---
@@ -11,12 +15,12 @@ You are happy when your friends are happy. This means making sure that some pair
 Puzzle Description
 ------------------
 
-*   [A Weekend to Remember (PDF - 1.4MB)]({{< baseurl >}}/resources/mit6_s095iap18_puzzle_10)
+*   {{% resource_link fce0fbbf-11dd-e89b-1bfc-e3e0da2557d3 "A Weekend to Remember (PDF - 1.4MB)" %}}
 
 Python Code
 -----------
 
-*   [bipartite.py (PY)]({{< baseurl >}}/resources/bipartite)
+*   {{% resource_link b367ebbc-40fc-8cdf-c66a-8b667dfd72d6 "bipartite.py (PY)" %}}
 
 Assignment
 ----------
@@ -26,7 +30,7 @@ Assignment
 Solution
 --------
 
-*   [bipartite-exercise1.py (PY)]({{< baseurl >}}/resources/bipartite-exercise1)
+*   {{% resource_link 379da875-13f1-7f54-e34c-ddb33b29d774 "bipartite-exercise1.py (PY)" %}}
 
 Programming Constructs and Algorithmic Paradigms Covered in this Puzzle
 -----------------------------------------------------------------------

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This page includes the video, description, and python files for Puzzle
+  4: Please Do Break the Crystal.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 4: Please Do Break the Crystal'
 uid: 2a1074b1-b265-def8-cbdf-a7d9a3526fbf
 ---
@@ -11,12 +15,12 @@ Given a set of identical balls, you need to discover how high you can climb and 
 Puzzle Description
 ------------------
 
-*   [Please Do Break The Crystal (PDF)]({{< baseurl >}}/resources/mit6_s095iap18_puzzle_4)
+*   {{% resource_link a00460a6-a86d-0962-97b5-412ca8a4676a "Please Do Break The Crystal (PDF)" %}}
 
 Python Code
 -----------
 
-*   [balls.py (PY)]({{< baseurl >}}/resources/balls)
+*   {{% resource_link 867badb7-0a73-fff0-951e-57b8cc552853 "balls.py (PY)" %}}
 
 Assignment
 ----------
@@ -26,7 +30,7 @@ Assignment
 Solution
 --------
 
-*   [balls-exercise1.py (PY)]({{< baseurl >}}/resources/balls-exercise1)
+*   {{% resource_link 54c537bd-d14b-d93c-bd32-7409e806513c "balls-exercise1.py (PY)" %}}
 
 Programming Constructs and Algorithmic Paradigms Covered in this Puzzle
 -----------------------------------------------------------------------

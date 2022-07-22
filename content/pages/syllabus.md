@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus describes the course prerequisites, content, requirements,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5a5afbe8-af80-d279-c567-e433050a13e7
 ---

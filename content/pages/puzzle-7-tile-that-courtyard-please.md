@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This page includes the video, description, and python files for Puzzle
+  7: Tile That Courtyard Please.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 7: Tile That Courtyard Please'
 uid: 4df2aedc-1db1-f2b4-677c-c4bba56a3e5f
 ---
@@ -11,13 +15,13 @@ It's easy to tile a square courtyard with square tiles, but can you tile a squar
 Puzzle Description
 ------------------
 
-*   [Tile That Courtyard (PDF)]({{< baseurl >}}/resources/mit6_s095iap18_puzzle_7)
+*   {{% resource_link 4bda18c7-23c8-8ca9-39e5-ed0714dabab0 "Tile That Courtyard (PDF)" %}}
 
 Python Code
 -----------
 
-*   [mergesort.py (PY)]({{< baseurl >}}/resources/mergesort)
-*   [tiling.py (PY)]({{< baseurl >}}/resources/tiling)
+*   {{% resource_link 503b1a16-e90d-273a-2d90-80e5d3d5accd "mergesort.py (PY)" %}}
+*   {{% resource_link 786d7adf-56de-bd30-3fff-5f49ca042ca2 "tiling.py (PY)" %}}
 
 Assignment
 ----------
@@ -27,7 +31,7 @@ Assignment
 Solution
 --------
 
-*   [tiling-exercise1.py (PY)]({{< baseurl >}}/resources/tiling-exercise1)
+*   {{% resource_link 8d5494d0-57f9-dc97-a796-dbdd234685a3 "tiling-exercise1.py (PY)" %}}
 
 Programming Constructs and Algorithmic Paradigms Covered in this Puzzle
 -----------------------------------------------------------------------

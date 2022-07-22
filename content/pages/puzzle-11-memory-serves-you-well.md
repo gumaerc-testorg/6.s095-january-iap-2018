@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This page includes the video, description, and python files for Puzzle
+  11: Memory Serves You Well.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Puzzle 11: Memory Serves You Well'
 uid: 8d6d7667-12ef-848a-2099-af13dc3b2d58
 ---
@@ -11,12 +15,12 @@ Repeatedly solving the same problem is boring for a human, and inefficient in a 
 Puzzle Description
 ------------------
 
-*   [Memory Serves You Well (PDF)]({{< baseurl >}}/resources/mit6_s095iap18_puzzle_11)
+*   {{% resource_link 8706beaa-5357-11f0-af45-ce2e86f3c9c2 "Memory Serves You Well (PDF)" %}}
 
 Python Code
 -----------
 
-*   [maxsum.py (PY)]({{< baseurl >}}/resources/maxsum)
+*   {{% resource_link 0c5643ca-a16e-0cb9-6284-219b455b5afb "maxsum.py (PY)" %}}
 
 Assignment
 ----------
@@ -26,7 +30,7 @@ Assignment
 Solution
 --------
 
-*   [maxsum-exercise1.py (PY)]({{< baseurl >}}/resources/maxsum-exercise1)
+*   {{% resource_link f9c6aedf-1939-aed7-685c-2aa1cd694624 "maxsum-exercise1.py (PY)" %}}
 
 Programming Constructs and Algorithmic Paradigms Covered in this Puzzle
 -----------------------------------------------------------------------
