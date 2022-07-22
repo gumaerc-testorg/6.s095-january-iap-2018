@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/53fb19b5eeef5c40ba399a20a3b356f8_zDHhHPZm2rc.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
