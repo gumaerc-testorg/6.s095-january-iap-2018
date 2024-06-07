@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding maxsum-EXERCISE1.py.
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/f9c6aedf1939aed7685c2aa1cd694624_maxsum-EXERCISE1.py
+file_size: 4733
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

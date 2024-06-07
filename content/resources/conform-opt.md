@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding conform-opt.py.
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/8c56cccc57050141ab4f00dd33bd58f1_conform-opt.py
+file_size: 1598
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding tiling-exercise1.py.
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/8d5494d057f9dc97a796dbdd234685a3_tiling-exercise1.py
+file_size: 1371
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
