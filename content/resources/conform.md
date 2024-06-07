@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding conform.py.
 file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/9b243dfc52a73cc6aeccdd610a4e8f1a_conform.py
+file_size: 1558
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
