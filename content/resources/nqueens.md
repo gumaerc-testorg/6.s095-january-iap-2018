@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding nqueens.py.
-file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/b3f040a71e738118f4342b966f51d835_nqueens.py
+file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/b3f040a71e738118f4342b966f51d835_nqueens.py
 file_size: 1374
 file_type: text/python-source
 learning_resource_types: []

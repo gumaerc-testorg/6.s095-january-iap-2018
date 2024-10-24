@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding gcd.py.
-file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/a77926bb1da496cecc8543f9df6a7a66_gcd.py
+file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/a77926bb1da496cecc8543f9df6a7a66_gcd.py
 file_size: 523
 file_type: text/python-source
 learning_resource_types: []
