@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding magic-exercise1.py.
-file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/e6ae017811af2645d1fcf19b2cc5ee1f_magic-exercise1.py
+file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/e6ae017811af2645d1fcf19b2cc5ee1f_magic-exercise1.py
 file_size: 4166
 file_type: text/python-source
 learning_resource_types: []
