@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding bipartite-exercise1.py.
-file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/379da87513f17f54e34cddb33b29d774_bipartite-exercise1.py
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/379da87513f17f54e34cddb33b29d774_bipartite-exercise1.py
 file_size: 2738
 file_type: text/python-source
 learning_resource_types: []

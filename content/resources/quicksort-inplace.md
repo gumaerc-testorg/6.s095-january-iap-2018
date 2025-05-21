@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding quicksort-inplace.py.
-file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/e535b95ae4ab7d5961368d6533582f06_quicksort-inplace.py
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/e535b95ae4ab7d5961368d6533582f06_quicksort-inplace.py
 file_size: 1949
 file_type: text/python-source
 learning_resource_types: []

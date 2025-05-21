@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding quicksort-exercise1.py.
-file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/c5c4d1c5ab1bb821fdb3a1faf5f0069d_quicksort-exercise1.py
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/c5c4d1c5ab1bb821fdb3a1faf5f0069d_quicksort-exercise1.py
 file_size: 2477
 file_type: text/python-source
 learning_resource_types: []

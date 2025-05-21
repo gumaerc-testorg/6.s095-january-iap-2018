@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding 8queens-iterative.py.
-file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/0937b4feb932f0f906c68fa9bc924dce_8queens-iterative.py
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/0937b4feb932f0f906c68fa9bc924dce_8queens-iterative.py
 file_size: 2062
 file_type: text/python-source
 learning_resource_types: []

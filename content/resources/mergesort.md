@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding mergesort.py.
-file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/503b1a16e90d273a2d9080e5d3d5accd_mergesort.py
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/503b1a16e90d273a2d9080e5d3d5accd_mergesort.py
 file_size: 1116
 file_type: text/python-source
 learning_resource_types: []
