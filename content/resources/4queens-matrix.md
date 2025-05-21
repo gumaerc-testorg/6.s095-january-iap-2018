@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding 4queens-matrix.py.
-file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/05eea3c3320dd6788ea52ace5a322267_4queens-matrix.py
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/05eea3c3320dd6788ea52ace5a322267_4queens-matrix.py
 file_size: 2312
 file_type: text/python-source
 learning_resource_types: []
