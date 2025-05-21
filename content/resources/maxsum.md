@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding maxsum.py.
-file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/0c5643caa16e0cb96284219b455b5afb_maxsum.py
+file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/0c5643caa16e0cb96284219b455b5afb_maxsum.py
 file_size: 2489
 file_type: text/python-source
 learning_resource_types: []
