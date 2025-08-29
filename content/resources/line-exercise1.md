@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding line-exercise1.py.
-file: /courses/6-s095-programming-for-the-puzzled-january-iap-2018/55efac79bf93b1d06113d7307174b66f_line-exercise1.py
+file: /ol-ocw-studio-app/courses/6-s095-programming-for-the-puzzled-january-iap-2018/55efac79bf93b1d06113d7307174b66f_line-exercise1.py
 file_size: 1648
 file_type: text/python-source
 learning_resource_types: []
