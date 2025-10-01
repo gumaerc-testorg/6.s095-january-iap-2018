@@ -34,7 +34,7 @@ The course includes eleven puzzles and related programming exercises that vary i
 Textbook
 --------
 
-Most of the material in this course is from [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262534307) Devadas, Srini. _Programming for the Puzzled: Learn to Program While Solving Puzzles_. MIT Press, 2017. ISBN: 9780262534307. \[Preview with [Google Books](http://books.google.com/books?id=Tpg-DwAAQBAJ&pg=PR4&pg=PAfrontcover)\]
+Most of the material in this course is from {{% resource_link "615bb8c6-a60c-46d4-ae53-00fe49532e00" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Devadas, Srini. _Programming for the Puzzled: Learn to Program While Solving Puzzles_. MIT Press, 2017. ISBN: 9780262534307. \[Preview with {{% resource_link "17a4ad59-5464-4f5a-946c-1ab920311b6c" "Google Books" %}}\]
 
 Grading
 -------
